@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TO_DO_LIST_ICLUB</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="e_mail">E_mail</string>
+    <string name="password">password</string>
+    <string name="my_list">mylist</string>
+</resources>
